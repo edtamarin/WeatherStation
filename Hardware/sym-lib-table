@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name WemosD1)(type Legacy)(uri "C:/Users/Egor Tamarin/Documents/WeatherStation/WemosD1.lib")(options "")(descr ""))
+)
